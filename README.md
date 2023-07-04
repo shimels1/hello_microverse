@@ -1,2 +1,2 @@
 # hello_microverse
-microverse exercise
+microverse exercise.
