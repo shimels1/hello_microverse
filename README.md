@@ -121,9 +121,6 @@ To get a local copy up and running, follow these steps.
 
 Clone this repository to your desired folder:
 
-
-Example commands:
-
 ```sh
   git clone https://github.com/shimels1/hello_microverse.git
 ```
