@@ -125,7 +125,6 @@ Clone this repository to your desired folder:
 Example commands:
 
 ```sh
-  cd my-folder
   git clone https://github.com/shimels1/hello_microverse.git
 ```
 -
