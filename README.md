@@ -127,7 +127,6 @@ Example commands:
 ```sh
   git clone https://github.com/shimels1/hello_microverse.git
 ```
--
 
 ### Usage
 
@@ -137,9 +136,9 @@ To run the project, execute the following command:
 
 ```sh
   cd hello_microverse
-   start "index.html"
+  start "index.html"
 ```
--
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
